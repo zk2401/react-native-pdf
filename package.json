@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      {
+        "name": "react-native-pdf",
+        "raw": "react-native-pdf@v1.2.7",
+        "rawSpec": "v1.2.7",
+        "scope": null,
+        "spec": "1.2.7",
+        "type": "version"
+      },
+      "/Users/zk/reactNativeProject/learn-app"
+    ]
+  ],
+  "_cnpm_publish_time": 1501347928252,
+  "_from": "react-native-pdf@1.2.7",
+  "_hasShrinkwrap": false,
+  "_id": "react-native-pdf@1.2.7",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-pdf",
+  "_nodeVersion": "8.2.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-pdf-1.2.7.tgz_1501347927877_0.5419778334908187"
+  },
+  "_npmUser": {
+    "email": "me@wonday.org",
+    "name": "wonday"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-pdf",
+    "raw": "react-native-pdf@v1.2.7",
+    "rawSpec": "v1.2.7",
+    "scope": null,
+    "spec": "1.2.7",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-pdf/download/react-native-pdf-1.2.7.tgz",
+  "_shasum": "d81cbce6397131e73548e938951c5c616bb445d6",
+  "_shrinkwrap": null,
+  "_spec": "react-native-pdf@v1.2.7",
+  "_where": "/Users/zk/reactNativeProject/learn-app",
+  "author": {
+    "name": "Wonday",
+    "url": "https://github.com/wonday"
+  },
+  "bugs": {
+    "url": "https://github.com/wonday/react-native-pdf/issues"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "prop-types": "^15.5.10",
+    "react-native-fetch-blob": "^0.10.5"
+  },
+  "description": "A react native PDF view component",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "d81cbce6397131e73548e938951c5c616bb445d6",
+    "size": 2821064,
+    "tarball": "http://registry.npm.taobao.org/react-native-pdf/download/react-native-pdf-1.2.7.tgz"
+  },
+  "gitHead": "302944b0ed2f9ac66776052f998d34dc88666ee5",
+  "homepage": "https://github.com/wonday/react-native-pdf#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "ios",
+    "pdf",
+    "view",
+    "viewer"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "me@wonday.org",
+      "name": "wonday"
+    }
+  ],
+  "name": "react-native-pdf",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "publish_time": 1501347928252,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonday/react-native-pdf.git"
+  },
+  "typings": "./index.d.ts",
+  "version": "1.2.7"
+}

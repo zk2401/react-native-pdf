@@ -1,0 +1,31 @@
+{
+  "name": "pdfexample",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "author": {
+      "name": "Wonday",
+      "url": "https://github.com/wonday"
+  },
+  "license": "MIT",
+  "bugs": {
+      "url": "https://github.com/wonday/react-native-pdf/issues"
+  },
+  "dependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.43.0",
+    "react-native-fetch-blob": "0.10.5",
+    "react-native-pdf": "github:wonday/react-native-pdf#master"
+  },
+  "devDependencies": {
+    "babel-jest": "19.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "19.0.2",
+    "react-test-renderer": "15.4.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
